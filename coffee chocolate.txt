@@ -1,0 +1,5 @@
+milk
+sugar
+chocolate
+coffee
+vanilla
